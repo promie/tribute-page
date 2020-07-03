@@ -6,8 +6,6 @@ It is the very first project that I've accomplished using Boostrap and the first
 The Bootstrap classes that I've learnt and that was applied to this product are as follow:
 
 - jumbotron
-- thumbnail
-- caption
 - blockquote
 - cite
 
