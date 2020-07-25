@@ -10,5 +10,3 @@ The Bootstrap classes that I've learnt and that was applied to this product are 
 - caption
 - blockquote
 - cite
-
-To view the project, please visit: https://promie.github.io/tribute-page/
